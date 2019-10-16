@@ -1,0 +1,12 @@
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\bin\Debug\ByteCryptform.exe.config
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\bin\Debug\ByteCryptform.exe
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\bin\Debug\ByteCryptform.pdb
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\bin\Debug\ByteCryptform.xml
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\obj\Debug\ByteCryptform.vbprojAssemblyReference.cache
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\obj\Debug\ByteCryptform.Form1.resources
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\obj\Debug\ByteCryptform.Resources.resources
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\obj\Debug\ByteCryptform.vbproj.GenerateResource.cache
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\obj\Debug\ByteCryptform.vbproj.CoreCompileInputs.cache
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\obj\Debug\ByteCryptform.exe
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\obj\Debug\ByteCryptform.xml
+H:\cs\COURSEWORK\ByteCryptform\ByteCryptform\obj\Debug\ByteCryptform.pdb

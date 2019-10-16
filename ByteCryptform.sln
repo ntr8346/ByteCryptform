@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ByteCryptform", "ByteCryptform\ByteCryptform.vbproj", "{9DF0D3DA-3CB2-46AC-A1D9-7EA2CAEFE361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF0D3DA-3CB2-46AC-A1D9-7EA2CAEFE361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF0D3DA-3CB2-46AC-A1D9-7EA2CAEFE361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF0D3DA-3CB2-46AC-A1D9-7EA2CAEFE361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF0D3DA-3CB2-46AC-A1D9-7EA2CAEFE361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88CD4710-8D3B-4351-B006-D28DCCE1087D}
+	EndGlobalSection
+EndGlobal
